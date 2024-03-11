@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+yarn.lock
+
+# production
+npm-debug.log
+yarn-error.log
+/dist
+/coverage
+/postgres
+
+# runtime data
+pids
+logs
+*.pid
+*.log
+
+# local env files
+.env
+
+# IDE files
+.vscode
